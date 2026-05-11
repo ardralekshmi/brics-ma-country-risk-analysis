@@ -48,3 +48,25 @@ The research analyses how political, economic, and financial risk indicators inf
 Ardra Lekshmi  
 MSc Finance & Investment (CFA Pathway)  
 University of Aberdeen
+
+## Visual Analysis
+
+### Distribution of M&A Premiums
+![Distribution of Premiums](deal-premium-distribution.png)
+
+### Average M&A Premiums Across BRICS
+![Average Premiums](Average%20Premiums%20across%20BRICS.png)
+
+### Country Risk and Premium Relationship
+
+![Scatterplot Rule of Law](scatterplot-country-risk%20(rule%20of%20law).png)
+
+![Scatterplot Political Risk](scatterplot-country-risk%20(political).png)
+
+![Scatterplot Government Effectiveness](scatterplot-country-risk%20(govt%20effect).png)
+
+![Scatterplot Credit Score](scatterplot-country-risk%20(credit).png)
+
+### Regression Coefficient Plot
+
+![Coefficient Plot](coefficient%20plot%20of%20country%20risk%20variables.png)
